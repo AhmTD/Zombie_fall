@@ -1,4 +1,5 @@
-# Last Stand in the Woods / Zombie Shooter - Survival
+# Last Stand in the Woods / Zombie Shooter - Survival toplam apım süresi 3 hafta.
+https://www.youtube.com/watch?v=Cb8cjuj3lp8 oyanış.
 
 EKİP OLARAK YAPTIĞIMIZ OYUNDA BENİM YAPTIKALRIM:
 -KARAKTER HAREKETLERİ
